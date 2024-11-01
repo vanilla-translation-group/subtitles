@@ -3,6 +3,7 @@
 ## Fonts
 
 - [Noto Sans CJK](https://github.com/notofonts/noto-cjk)
+- [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic)
 - [FOT-PopHappiness Std EB](https://archive.org/details/font-pop-happiness-Std-Eb)
 - [方正标致体](https://www.foundertype.com/index.php/FontInfo/index/id/407.html)
 
