@@ -44,8 +44,8 @@ Dialogue: 0,0:00:45.52,0:00:47.28,Signs,Kano,0,0,0,,{\an7\pos(1810,320)\3c&H9C8F
 Dialogue: 0,0:00:45.52,0:00:47.28,Signs,Kano,0,0,0,,{\an7\pos(1480,450)\3c&H9C8FFF&\b0\fn方正标致简体\c&HF4F4F4&\fs100}是\N什\N么\N？
 Comment: 0,0:00:48.65,0:00:53.91,Signs,,0,0,0,,華乃さん個人の感想です。
 Dialogue: 0,0:00:48.65,0:00:53.91,Signs,,0,0,0,,{\an7\pos(310,360)\b1\fs50\fn更纱黑体 SC}个 这\N人 是\N感 华\N想 乃\N。 的
-Comment: 0,0:01:59.01,0:02:01.52,Signs,,0,0,0,,一人体着
-Dialogue: 0,0:01:59.01,0:02:01.52,Signs,,0,0,0,,{\an7\fad(485,1025)\b1}※单人体育服装
+Comment: 0,0:01:59.01,0:02:01.52,Signs,,0,0,0,,人着一体
+Dialogue: 0,0:01:59.01,0:02:01.52,Signs,,0,0,0,,{\an7\fad(485,1025)\b1}※人衣一体
 Comment: 0,0:03:29.98,0:03:32.57,Signs,,0,0,0,,シキトーク
 Comment: 0,0:03:29.98,0:03:32.57,Signs,,0,0,0,,四季Talk
 Comment: 0,0:03:55.55,0:04:19.86,Signs,,0,0,0,,トークテーマ：ハミクリヒロインに生まれ変わるなら？
@@ -98,11 +98,11 @@ Dialogue: 0,0:00:37.06,0:00:40.30,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}写真 漫
 Dialogue: 0,0:00:40.30,0:00:42.40,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}描いて描いて描きまくった
 Dialogue: 0,0:00:42.40,0:00:44.65,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}そして ある疑問が…
 Dialogue: 0,0:00:48.65,0:00:50.40,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}学校体育から消え
-Dialogue: 0,0:00:50.40,0:00:53.90,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}今では二次元における文化伝統様式日のエロアイテム
+Dialogue: 0,0:00:50.40,0:00:53.90,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}今では二次元における文化伝統様式美のエロアイテム
 Dialogue: 0,0:00:53.90,0:00:56.48,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}ブルマが生み出すときめきリビドーは廃れない
 Dialogue: 0,0:00:56.48,0:01:00.26,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}それはブルマに人の精神を掴んで離さない何かがあるから
 Dialogue: 0,0:01:00.26,0:01:02.25,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}私はそれを知りたいの！
-Dialogue: 0,0:01:02.25,0:01:03.79,DefaultJP,Hiyori,0,0,0,,{\3c&H7FDEFC&}女としての探求心！
+Dialogue: 0,0:01:02.25,0:01:03.79,DefaultJP,Hiyori,0,0,0,,{\3c&H7FDEFC&}こんなとしての探求心！
 Dialogue: 0,0:01:03.79,0:01:04.67,DefaultJP,Asumi,0,0,0,,{\3c&HF7DFC9&}わかります！
 Dialogue: 0,0:01:04.67,0:01:07.55,DefaultJP,Ameri,0,0,0,,{\3c&H7CBEFF&}言ってることはわからないけど 熱意はわかった！
 Dialogue: 0,0:01:07.55,0:01:09.02,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}みんな よろしく！
@@ -125,7 +125,7 @@ Dialogue: 0,0:01:53.48,0:01:55.70,DefaultJP,,0,0,0,,なんだよ 結構女じゃ
 Dialogue: 0,0:01:55.70,0:01:56.72,DefaultJP,,0,0,0,,女は…
 Dialogue: 0,0:01:56.72,0:01:58.10,DefaultJP,,0,0,0,,苦しいんな だめだ
 Dialogue: 0,0:02:03.54,0:02:06.27,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}私 大事なことを見失ってた
-Dialogue: 0,0:02:06.27,0:02:10.54,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}ブルマは 女の子が入いてこそ存在意義が生まれる
+Dialogue: 0,0:02:06.27,0:02:10.54,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}ブルマは 女の子が穿いてこそ存在意義が生まれる
 Dialogue: 0,0:02:10.54,0:02:14.92,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}そして ブルマはその子自身の人生を包み輝かせる
 Dialogue: 0,0:02:14.92,0:02:17.34,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}みんな 気づかせてくれて…
 Dialogue: 0,0:02:17.34,0:02:19.29,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}ありがとう！
@@ -182,11 +182,11 @@ Dialogue: 0,0:00:37.06,0:00:40.30,DefaultCN,Kano,0,0,0,,{\3c&H9C8FFF&}收集了�
 Dialogue: 0,0:00:40.30,0:00:42.40,DefaultCN,Kano,0,0,0,,{\3c&H9C8FFF&}画啊画啊 画个不停
 Dialogue: 0,0:00:42.40,0:00:44.65,DefaultCN,Kano,0,0,0,,{\3c&H9C8FFF&}然后有一个疑问…
 Dialogue: 0,0:00:48.65,0:00:50.40,DefaultCN,Kano,0,0,0,,{\3c&H9C8FFF&}在学校体育中消失
-Dialogue: 0,0:00:50.40,0:00:53.90,DefaultCN,Kano,0,0,0,,{\3c&H9C8FFF&}如今成为二次元文化传统风格的色情物品
+Dialogue: 0,0:00:50.40,0:00:53.90,DefaultCN,Kano,0,0,0,,{\3c&H9C8FFF&}如今成为二次元文化传统风格美的色情物品
 Dialogue: 0,0:00:53.90,0:00:56.48,DefaultCN,Kano,0,0,0,,{\3c&H9C8FFF&}灯笼裤带来的心动和欲望不会消逝
 Dialogue: 0,0:00:56.48,0:01:00.26,DefaultCN,Kano,0,0,0,,{\3c&H9C8FFF&}因为灯笼裤拥有抓住人心的某种东西
 Dialogue: 0,0:01:00.26,0:01:02.25,DefaultCN,Kano,0,0,0,,{\3c&H9C8FFF&}我想知道那是什么！
-Dialogue: 0,0:01:02.25,0:01:03.79,DefaultCN,Hiyori,0,0,0,,{\3c&H7FDEFC&}作为女性的探索心！
+Dialogue: 0,0:01:02.25,0:01:03.79,DefaultCN,Hiyori,0,0,0,,{\3c&H7FDEFC&}居然有这样的探索心！
 Dialogue: 0,0:01:03.79,0:01:04.67,DefaultCN,Asumi,0,0,0,,{\3c&HF7DFC9&}我懂的！
 Dialogue: 0,0:01:04.67,0:01:07.55,DefaultCN,Ameri,0,0,0,,{\3c&H7CBEFF&}虽然听不懂你在说什么 但我明白你的热情！
 Dialogue: 0,0:01:07.55,0:01:09.02,DefaultCN,Kano,0,0,0,,{\3c&H9C8FFF&}大家 拜托了！
