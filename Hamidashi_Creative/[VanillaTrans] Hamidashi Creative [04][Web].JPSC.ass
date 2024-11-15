@@ -33,7 +33,7 @@ Style: Signs,Noto Sans CJK SC,70,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:04.00,DefaultCN,,0,0,0,,{\an8\fad(300,300)\fs60}本字幕由 香子兰翻译同好会 制作，采用 CC BY-NC 4.0 协议授权，仅供日语学习使用。\N时轴、翻译、字幕效果：Misaka13514　　校对：scientificworld、baiyuanneko
 Comment: 0,0:00:13.83,0:00:16.83,Signs,,0,0,0,,ハミダシクリエイティブ
-Dialogue: 0,0:00:13.83,0:00:16.83,Signs,,0,0,0,,{\pos(994,376)\p1\bord0\shad0\1img(logo.png)}m 0 0 l 1565 0 l 1565 171 l 0 171
+Dialogue: 0,0:00:13.83,0:00:16.83,Signs,,0,0,0,,{\pos(994,376)\c&HFFFFFF&\p1\bord0\shad0\1img(logo.png)}m 0 0 l 1565 0 l 1565 171 l 0 171
 Comment: 0,0:00:16.83,0:00:21.38,Signs,,0,0,0,,戦え！撮り鉄娘！\N2期決定！！
 Comment: 0,0:00:16.83,0:00:21.38,Signs,,0,0,0,,战斗吧！铁道摄影少女！\N第二季决定！！
 Comment: 0,0:00:45.36,0:00:51.61,Signs,,0,0,0,,次　サイフをすめ盗る。\Nブミ、伸びをする。\Nイーンと対峙す　撮り鉄娘\N\N乗客A「おいお\N銀次「へへへ　まぬけ\N\Nラブミ「そこ\Nラブミ「あんた　未知の　頼んだ　撮影は　いゃ～　～～～
