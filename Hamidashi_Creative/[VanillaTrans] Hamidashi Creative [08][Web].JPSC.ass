@@ -121,7 +121,7 @@ Dialogue: 0,0:01:56.01,0:02:00.34,DefaultJP,Hiyori,0,0,0,,{\3c&H7FDEFC&}お城�
 Dialogue: 0,0:02:00.34,0:02:03.92,DefaultJP,Hiyori,0,0,0,,{\3c&H7FDEFC&}そこに多くの人がいたことを感じるのが大切なのです
 Dialogue: 0,0:02:03.92,0:02:04.50,DefaultJP,Shio,0,0,0,,{\3c&H745473&}うむ
 Dialogue: 0,0:02:04.50,0:02:07.17,DefaultJP,Hiyori,0,0,0,,{\3c&H7FDEFC&}まあ 兄の受け売りですか
-Dialogue: 0,0:02:07.17,0:02:08.66,DefaultJP,Ameri,0,0,0,,{\3c&H7CBEFF&}妃愛りん
+Dialogue: 0,0:02:07.17,0:02:08.66,DefaultJP,Ameri,0,0,0,,{\3c&H7CBEFF&}妃愛ん
 Dialogue: 0,0:02:08.66,0:02:10.36,DefaultJP,Ameri,0,0,0,,{\3c&H7CBEFF&}ありがとう
 Dialogue: 0,0:02:10.36,0:02:12.86,DefaultJP,Kano,0,0,0,,{\3c&H9C8FFF&}天梨がお城に詳しいなんて意外
 Dialogue: 0,0:02:12.86,0:02:14.66,DefaultJP,Ameri,0,0,0,,{\3c&H7CBEFF&}あっ ああ それはね
@@ -248,8 +248,7 @@ Dialogue: 0,0:03:41.80,0:03:44.33,TalkCN,,0,0,0,,同时我也担任{\3c&H6732C3&
 Dialogue: 0,0:03:44.33,0:03:46.21,TalkCN,,0,0,0,,{\c&H4400AC&\3c&HEBEDED&}请多关照
 Dialogue: 0,0:03:46.21,0:03:47.32,TalkCN,,0,0,0,,请多关照～
 Dialogue: 0,0:03:47.71,0:03:51.62,TalkCN,,0,0,0,,{\K89\c&HFFFFFF&\2c&HFFFFFF&}在“四季Talk”中，我会挑战嘉宾在{\K17\c&H6758F3&}20秒{\K100\c&HFFFFFF&}内{\K50\c&H3290F0&}能聊多少内容{\c&HFFFFFF}！
-Dialogue: 0,0:03:51.62,0:03:52.59,TalkCN,,0,0,0,,那么，今天的主题是这个
-Dialogue: 0,0:03:52.59,0:03:54.48,TalkCN,,0,0,0,,那么，今天的主题是这个
+Dialogue: 0,0:03:51.62,0:03:54.48,TalkCN,,0,0,0,,那么，今天的主题是这个
 Dialogue: 0,0:03:54.48,0:03:55.73,TalkCN,,0,0,0,,那就开始吧
 Dialogue: 0,0:03:57.13,0:04:01.76,TalkCN,,0,0,0,,最能激发我{\c&H4304A9&\3c&HEBEAED&}插画灵感{\c&HFFFFFF&\3c&H000000&}的角色，{\c&H6627D4&\3c&HFFFFFF&}毫无疑问是{\c&HFFFFFF&\3c&H7FDEFC&}妃爱
 Dialogue: 0,0:04:01.76,0:04:05.18,TalkCN,,0,0,0,,{\c&HF8C257&\3c&HF5ECEE&}理由呢{\c&HFFFFFF&\3c&H000000&}，是因为{\3c&H7FDEFC&}妃爱{\3c&H000000&}是声优
